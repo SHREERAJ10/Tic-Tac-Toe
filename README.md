@@ -7,4 +7,4 @@
 ✅ Responsive design for mobile & desktop <br>
 <br>
 ## Demo  
-🔗 [Live Demo](aalucrossgame.netlify.app)  
+🔗 [Live Demo](https://aalucrossgame.netlify.app)  
